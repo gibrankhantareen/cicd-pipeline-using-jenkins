@@ -1,7 +1,7 @@
 # Django-todo App - CICD Pipeline Project
 A simple todo app built with django
 
-![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
+![todo App](https://user-images.githubusercontent.com/90929264/229271582-ea6f0a27-15b8-4afa-a987-8091c93a9f70.png)
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
