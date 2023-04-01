@@ -1,4 +1,4 @@
-# CI-CD Pipeline - Via Django-todo App
+# Django-todo App - CICD Pipeline Project
 A simple todo app built with django
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
